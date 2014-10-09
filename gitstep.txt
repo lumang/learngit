@@ -21,4 +21,13 @@
 	git reset --hard HEAD~100 上100版本
 	
      git reset --hard  commitid（5位）
-9、git relog 记录每次的命令
+9、git reflog 记录每次的命令
+工作区
+	working directory  learngit
+版本库
+	repository
+	stage 暂存区 git add 
+	master 分支   git commit
+管理修改
+	Git 优秀的原因管理的是修改而不是文件
+	
