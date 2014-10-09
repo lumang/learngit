@@ -1,0 +1,40 @@
+0.python 可以做什么
+	日常任务 自动备份文件
+	网站
+	游戏后台
+	不能做什么
+	os c
+	移动开发
+	2d/3d游戏 c/c++
+1、python简介
+	速度慢
+	代码不加密
+	解释型源码
+	翻译性源码 c
+2、install ide 2.7
+
+3、解释器
+	c I PYPY 
+	J Iron
+4、写代码
+	仔细检查对照
+	数字计算
+	输出字符串 print ‘’
+	退出exit()
+5、文件编辑器
+	filename.py
+	首行
+	#！/usr/bin/env python
+6、input output
+	raw_input()
+	print
+二 语言基础
+	注释开头 #
+	缩进4格
+	大小写敏感
+1数据类型
+	整数
+	浮点数
+	字符串
+	
+	
