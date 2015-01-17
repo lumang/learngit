@@ -13,15 +13,17 @@
 	git 
 版本回退
 7、 git log  历史记录
-	git log --pretty=online
+	git log --pretty=oneline
 	commit id  SHA1计算出来的一个非常大的数字，用十六进制表示
 	
 8、git reset --hard HEAD^ 上一版本
 	git reset --hard HEAD^^ 上上版本
 	git reset --hard HEAD~100 上100版本
 	
-     git reset --hard  commitid（5位）
+    git reset --hard  commitid（5位）
 9、git reflog 记录每次的命令
+	查看历史命令
+	
 工作区
 	working directory  learngit
 版本库

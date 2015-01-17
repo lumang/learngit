@@ -1,0 +1,22 @@
+www.rupeng.com
+1讲
+	播放器
+	游戏
+	聊天室
+	记事本
+	C语言编译器
+	web程序
+	Foxmail
+	论坛
+vc6
+	win32 application
+	simple
+	WinMain 入口函数
+	notpad
+	MessageBox(NULL,TEXT("text\n"),TEXT("title\n"),MB_OK);
+					正文            标题			按钮
+		TEXT 是宏
+		宏常量
+	图标 iconhand 
+	MessageBox(NULL,TEXT("text\n"),TEXT("title\n"),MB_YESNO|MB_ICONQUESTION);
+	
