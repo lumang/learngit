@@ -7,3 +7,4 @@ git commit  -m something
 git remote add origin git@server-name:path/repo-name.git
 git push -u origin master 推送最新的修改
 
+第二次 git push origin master  不需要-u
