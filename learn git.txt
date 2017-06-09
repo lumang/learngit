@@ -1,0 +1,9 @@
+1、初始化版本库
+git init
+2、添加文件到版本库
+git add filename
+git commit  -m something
+3、关联远程仓库
+git remote add origin git@server-name:path/repo-name.git
+git push -u origin master 推送最新的修改
+
